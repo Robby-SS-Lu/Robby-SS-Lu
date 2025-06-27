@@ -33,7 +33,7 @@
 <li>🐼 影视图像：OpenCV、Pytesseract、OCR</li>
 <li>⏱ 自动化库：Selenium、XPath、Beautiful Soup</li>
 <li>⏳ 消息队列：Redis、Kafka</li>
-<li>💾 数据模块：MySQL、MongoDB、Clickhouse</li>
+<li>💾 数据模块：MySQL、MongoDB、Clickhouse、Hive、Milvus</li>
 <li>💡 安全工具：渗透攻击、流量嗅探、网站爬虫、APP抓取</li>
 <li>🧰 其他工具：BurpSuite、Git</li>
 </ul>
