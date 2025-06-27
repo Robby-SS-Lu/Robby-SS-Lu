@@ -11,10 +11,12 @@
 <p><b>About me</b></p>
 <ul>
 <li>🏢 就职：深圳一家芯片供应链大数据公司</li>
-<li>🧑🏻‍💻 职责：数据组负责人</li>
+<li>🧑🏻‍💻 职位：AI及数据组负责人</li>
+<li>🪪 职责：项目设计及研发</li>
 <li>🌱 方向：全栈开发工程师、软件工程设计</li>
-<li>💬 爱好：记录生活、学习及分享技能</li>
+<li>💬 爱好：记录生活、学习及技术分享</li>
 </ul>
+
 <p>&nbsp;</p>
 <p><b>Languages and Tools</b></p>
 <ul>
@@ -35,8 +37,6 @@
 <li>💡 安全工具：渗透攻击、流量嗅探、网站爬虫、APP抓取</li>
 <li>🧰 其他工具：BurpSuite、Git</li>
 </ul>
-<!--
-<p style="text-align: center;"><img class="size-medium wp-image-2373 aligncenter" src="https://www.lubaogui.com/wp-content/uploads/2021/10/2021100903392086-231x300.jpg" alt="" width="231" height="300" /></p>-->
 <p><!-- /wp:paragraph -->
 
 <!-- wp:paragraph --></p>
